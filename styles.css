@@ -1,0 +1,28 @@
+#page1{
+    color:blue;
+    font-weight:200;
+    size:10px;
+    text-decoration:blink;
+    text-align: left;
+}
+#page2{
+    color:red;
+    font-weight:400;
+    size:15px;
+    text-decoration:line-through;
+    text-align: center;
+}
+#page3{
+    color:greenyellow;
+    font-weight:500;
+    size:20px;
+    text-decoration:overline;
+    text-align: right;
+}
+#page4{
+    color:gold;
+    font-weight:900;
+    size:25px;
+    text-decoration:underline;
+    text-align:start;
+}
